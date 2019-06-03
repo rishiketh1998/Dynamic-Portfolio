@@ -1,0 +1,134 @@
+h1{
+   color:red;
+    margin-top:5%;
+}
+i.icon{
+    font-size: 2em;
+}
+
+.container.main{
+    margin-top: 7.0em;
+}
+::root {
+    --l:red;
+}
+#delete {
+    display: inline;
+}
+
+body{
+    background:url("https://media3.giphy.com/media/BHNfhgU63qrks/giphy.gif");
+    background-color: #3B324F;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#projects{
+    color: #fc3677;
+    
+}
+
+#projects:hover{
+    color: pink;
+}
+
+#myPortfolio{
+    color: Pink;
+    font-size: 15px;
+     font-weight: bold;
+}
+
+.item{
+    font-family: 'PT Sans', sans-serif;
+   
+    letter-spacing: 2px;
+}
+
+#newProject{
+    color: #fc3677;
+     letter-spacing: 2px;
+     padding-bottom: 1.5%;
+}
+
+
+.title{
+     
+     background-color: pink;  
+       font-family: 'PT Sans', sans-serif;
+       font-size: 10px;
+}
+
+.buttons{
+    color: black;
+     background-color: pink;
+     font-family: 'PT Sans', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
+   
+   border-color: pink;
+   text-transform: uppercase;
+}
+
+
+.buttons:hover{
+  background-color: hotpink;
+}
+
+
+
+.description{
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    
+}
+
+.buttons1{
+    color: black;
+     background-color: pink;
+     font-family: 'PT Sans', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
+  border: 1px solid black;
+   text-transform: uppercase;
+}
+
+.buttons1:hover{
+  background-color: hotpink;
+}
+
+#theme{
+    background-color: white;
+    border:2px solid black;
+}
+
+.skills{
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    
+}
+
+.contact{
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    
+}
+
+.image{
+    width: 40%;
+}
+
+#content{
+    margin-top: 2%;
+
+}
+
+#edit{
+    margin-top:2%;
+}
+
+
